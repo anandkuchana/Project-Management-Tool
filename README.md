@@ -1,2 +1,2 @@
-# MediCore-Pro---Your-Complete-Hospital-Management-Solution
-MediCore Pro is a next-generation hospital management system designed to address the complex challenges of modern healthcare delivery. Powered by AI and built on a secure, cloud-based platform, it centralizes critical hospital operations and patient data, enabling efficient, coordinated care across departments.
+What is a Project Management Tool?
+A project management tool is software or a platform designed to help teams plan, execute, track, and complete projects efficiently. It centralizes tasks, resources, timelines, and communication to streamline workflows, reduce errors, and improve collaboration. These tools are used across industries like software development, construction, marketing, and event planning, supporting methodologies such as Agile, Scrum, or Waterfall.
